@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     string Nama,Sekolah;
-    int ulang;
+    string ulang;
     do {
         cout<<"===INPUT DATA SISWA===" <<endl;
         cout<<"Masukkan Nama   :";
