@@ -15,6 +15,10 @@ int main() {
         cout<<"Masukkan Sekolah  :";
         cin>>Sekolah;
 
+        cout<<"Namamu adalah";
+        cout<<Nama<<endl;
+        cout<<"Sekolah di";
+        cout<<Sekolah<<endl;
         cout<<"apakah anda mau mengulang, tekan y atau Y "<<endl;
         cin>>ulang;
     }
